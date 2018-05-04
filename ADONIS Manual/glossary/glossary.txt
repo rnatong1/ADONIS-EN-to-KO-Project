@@ -1,0 +1,7 @@
+Manual	매뉴얼
+Web	웹
+Client	클라이언트
+Administration	관리자
+Homepage	홈페이지
+Metamodel	메타모델
+Best Practice	모범 경영

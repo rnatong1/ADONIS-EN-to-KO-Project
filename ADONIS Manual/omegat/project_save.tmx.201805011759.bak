@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BOC Group Addresses:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="LSH" changedate="20180501T085746Z" creationid="LSH" creationdate="20180501T085746Z">
+        <seg>BOC Group 주소:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Books included in this documentation: Administration Manual Installation Manual</seg>
+      </tuv>
+      <tuv lang="KO" changeid="LSH" changedate="20180501T085451Z" creationid="LSH" creationdate="20180501T085451Z">
+        <seg>이 책은 다음 문서를 포함함: 관리자 매뉴얼 설치 매뉴얼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hotline:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="LSH" changedate="20180501T085924Z" creationid="LSH" creationdate="20180501T085924Z">
+        <seg>상담 문의:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User Manual</seg>
+      </tuv>
+      <tuv lang="KO" changeid="LSH" changedate="20180501T085333Z" creationid="LSH" creationdate="20180501T085333Z">
+        <seg>사용자 메뉴얼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Web Client Administration Manual</seg>
+      </tuv>
+      <tuv lang="KO" changeid="LSH" changedate="20180501T085540Z" creationid="LSH" creationdate="20180501T085540Z">
+        <seg>웹 클라이언트 관리자 매뉴얼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>hotline@boc-group.com&lt;t0/&gt; Homepage:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="LSH" changedate="20180501T085930Z" creationid="LSH" creationdate="20180501T085930Z">
+        <seg>hotline@boc-group.com&lt;t0/&gt; 홈페이지:</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

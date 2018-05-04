@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>ADONIS BPMS – The BOC BPM &amp; BPMN 2.0 Best<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>Practice<ph x="2">&lt;t2/&gt;</ph> <ph x="3">&lt;t3/&gt;</ph>Method</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="LSH" changedate="20180501T091452Z" creationid="LSH" creationdate="20180501T091452Z">
+        <seg>ADONIS BPMS – The BOC BPM &amp; BPMN 2.0 모범<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>경영<ph x="2">&lt;t2/&gt;</ph> <ph x="3">&lt;t3/&gt;</ph>방법</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>About ADONIS NP<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>and<ph x="2">&lt;t2/&gt;</ph> <ph x="3">&lt;t3/&gt;</ph>BPMS</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="LSH" changedate="20180501T090643Z" creationid="LSH" creationdate="20180501T090643Z">
+        <seg>ADONIS NP<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>및<ph x="2">&lt;t2/&gt;</ph> <ph x="3">&lt;t3/&gt;</ph>BPMS에 대하여</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Advanced Possibilities with<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>BPMN<ph x="2">&lt;t2/&gt;</ph> <ph x="3">&lt;t3/&gt;</ph>2.0</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="LSH" changedate="20180501T093403Z" creationid="LSH" creationdate="20180501T093403Z">
+        <seg>Advanced Possibilities with<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>BPMN<ph x="2">&lt;t2/&gt;</ph> <ph x="3">&lt;t3/&gt;</ph>2.0의</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>BOC Group Addresses:</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="LSH" changedate="20180501T085746Z" creationid="LSH" creationdate="20180501T085746Z">
+        <seg>BOC Group 주소:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Books included in this documentation: Administration Manual Installation Manual</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="LSH" changedate="20180501T085451Z" creationid="LSH" creationdate="20180501T085451Z">
+        <seg>이 책은 다음 문서를 포함함: 관리자 매뉴얼 설치 매뉴얼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Concept of the<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>ADONIS<ph x="2">&lt;t2/&gt;</ph> <ph x="3">&lt;t3/&gt;</ph>Metamodel</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="LSH" changedate="20180501T090955Z" creationid="LSH" creationdate="20180501T090858Z">
+        <seg>ADONIS<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>메타모델의<ph x="2">&lt;t2/&gt;</ph> <ph x="3">&lt;t3/&gt;</ph> 개념</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Hotline:</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="LSH" changedate="20180501T085924Z" creationid="LSH" creationdate="20180501T085924Z">
+        <seg>상담 문의:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="LSH" changedate="20180501T090602Z" creationid="LSH" creationdate="20180501T090602Z">
+        <seg>소개</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Table of Contents</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="LSH" changedate="20180501T090545Z" creationid="LSH" creationdate="20180501T090545Z">
+        <seg>목차</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The ADONIS NP 4.0 User Manual</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="LSH" changedate="20180501T090539Z" creationid="LSH" creationdate="20180501T090539Z">
+        <seg>ADONIS NP 4.0 사용자 매뉴얼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>User Manual</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="LSH" changedate="20180501T085333Z" creationid="LSH" creationdate="20180501T085333Z">
+        <seg>사용자 메뉴얼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Web Client Administration Manual</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="LSH" changedate="20180501T085540Z" creationid="LSH" creationdate="20180501T085540Z">
+        <seg>웹 클라이언트 관리자 매뉴얼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>hotline@boc-group.com<ph x="0">&lt;t0/&gt;</ph> Homepage:</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="LSH" changedate="20180501T085930Z" creationid="LSH" creationdate="20180501T085930Z">
+        <seg>hotline@boc-group.com<ph x="0">&lt;t0/&gt;</ph> 홈페이지:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>© User documentation for ADONIS NP 2016</seg>
+      </tuv>
+      <tuv xml:lang="KO" changeid="LSH" changedate="20180501T090506Z" creationid="LSH" creationdate="20180501T090506Z">
+        <seg>© ADONIS NP 2016에 대한 사용자 문서</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
